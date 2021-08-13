@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clockfighter</string>
+
+<!--    Game string resources-->
+    <string name="game_score">Score:%1d</string>
+    <string name="game_time">Time:%1d</string>
+    <string name="final_msg">Time up!, Score is %1d</string>
+</resources>
